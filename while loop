@@ -1,0 +1,10 @@
+#python script first 10 natural number/name
+x=1
+while x<=10:
+    print("Amit Prajapati")
+    
+    x=x+1
+z=1
+while z<=10:
+    print(z)
+    z=z+1
